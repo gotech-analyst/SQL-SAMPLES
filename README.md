@@ -1,2 +1,2 @@
 # SQL-SAMPLES
-A collection of y sample sql files.
+A collection of my sample SQL files.
